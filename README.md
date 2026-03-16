@@ -47,7 +47,7 @@
 
 ## Featured Projects
 
-<a href="https://github.com/DheerajMotupalli?tab=repositories">
+<a href="https://github.com/DheerajMotupalli/njit-battlesnake-2026">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DheerajMotupalli&repo=njit-battlesnake-2026&theme=default&hide_border=true" />
 </a>
 
